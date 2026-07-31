@@ -1,0 +1,8 @@
+allowBuilds:
+  '@fortawesome/fontawesome-common-types': true
+  '@fortawesome/fontawesome-free': true
+  '@fortawesome/fontawesome-svg-core': true
+  core-js: true
+  core-js-pure: true
+  ejs: true
+  es5-ext: true
